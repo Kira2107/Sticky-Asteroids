@@ -11,6 +11,11 @@
 				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/StaticMeshes/M_Spaceship.uasset",
 				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/StaticMeshes/StarSparrow01.uasset",
 				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/StaticMeshes/StarSparrow_Emission.uasset",
+				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/Blueprints/Game/BP_Bullet.uasset",
+				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/StaticMeshes/asteroid_01_009.uasset",
+				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/Blueprints/Game/BP_AsteroidsBase.uasset",
+				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/Blueprints/Game/BP_Asteroids_Child_Medium.uasset",
+				"D:/Semester 2/IGME 796 - Advanced Topics in Game Design/Game 2/Sticky-Asteroids/StickyAsteroids/Content/StickyAsteroids/Blueprints/Game/BP_Asteroids_Child_Small.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/StickyAsteroids/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"Z:/IGMProfile/Documents/Unreal Projects/StickyAsteroids/Content/StickyAsteroids/Scenes/GameLevel.umap"
 			]
